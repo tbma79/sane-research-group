@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: SANE  Research Group
-hero_media: welcome.jpg
+hero_media: welcome.jpeg
 widget_id: welcome
 design:
   columns: "1"
