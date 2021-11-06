@@ -20,19 +20,21 @@ social:
     icon_pack: ai
     link: https://orcid.org/0000-0002-9883-5844
 organizations:
-  - name: Columbia University
-    url: ""
+  - name: School of Computing
+    url: https://www.comp.nus.edu.sg
+  - name: National University of Singapore
+    url: https://www.nus.edu.sg
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Electrical Engineering
+      institution: Columbia University
+      year: 2010
+    - course: MPhil in Computer Science
+      institution: The Chinese University of Hong Kong
+      year: 2004
+    - course: BSc in Computer Science
+      institution: The Chinese University of Hong Kong
+      year: 2002
 superuser: true
 user_groups:
   - Researchers
