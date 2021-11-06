@@ -1,11 +1,10 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
+title: Trisk has been accepted by ACM SoCC 2020
 date: 2020-12-02
 image:
-  focal_point: "top"
+  focal_point: top
 ---
-
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+Congratulations to Yancan Mao and the co-authors for their paper “[Trisk: Task-Centric Data Stream Reconfiguration](https://richard-ma.netlify.app/publication/trisk/)” to be accepted by the ACM Symposium on Cloud Computing 2021!
 
 <!--more-->
 
