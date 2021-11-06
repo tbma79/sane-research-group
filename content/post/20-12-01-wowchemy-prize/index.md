@@ -1,9 +1,8 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: Richard T. B. Ma Wins the Best Paper Award Runners-up from ACM Mobihoc 2020
 date: 2020-12-01
 ---
-
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Congratulations to Richard for winning the Best Paper Award Runners-up from the ACM Mobihoc Conference 2020.
 
 <!--more-->
 
