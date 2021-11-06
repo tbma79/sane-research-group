@@ -1,6 +1,6 @@
 ---
 title: Lianjie Shi
-role: Professor of Artificial Intelligence
+role: PhD Student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
