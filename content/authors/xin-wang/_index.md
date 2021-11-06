@@ -1,6 +1,6 @@
 ---
 title: Xin Wang
-role: Former Senior Research Fellow
+role: Senior Research Fellow
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
