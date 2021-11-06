@@ -1,7 +1,13 @@
 ---
-title: Trisk
+title: "Trisk: Task-Centric Data Stream Reconfiguration"
 publication_types:
-  - "0"
+  - "1"
+authors:
+  - Yancan Mao
+  - Yuan Huang
+  - Runxin Tian
+  - Xin Wang
+  - admin
 draft: false
 featured: false
 image:
