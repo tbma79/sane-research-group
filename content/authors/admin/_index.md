@@ -10,12 +10,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:tbma@comp.nus.edu.sg
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: dblp
+    icon_pack: ai
+    link: http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Ma:Richard_T=_B=.html
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-9883-5844
