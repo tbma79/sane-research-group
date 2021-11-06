@@ -1,5 +1,5 @@
 ---
-title: Lianjie Shi
+title: 吳恩達
 role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
