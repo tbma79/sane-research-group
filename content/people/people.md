@@ -22,8 +22,8 @@ content:
   - Grad Students
   - Undergraduate Students
 #  - Administration
-  - Visitors
   - Alumni
+  - Visitors
 design:
   show_interests: false
   show_role: true
