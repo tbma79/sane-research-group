@@ -37,7 +37,7 @@ education:
       year: 2002
 superuser: true
 user_groups:
-  - Researchers
+  - Faculty
 highlight_name: false
 title: Richard T. B. Ma
 email: ""
