@@ -20,7 +20,7 @@ social:
     icon_pack: ai
     link: https://orcid.org/0000-0002-9883-5844
 organizations:
-  - name: Stanford University
+  - name: Columbia University
     url: ""
 education:
   courses:
