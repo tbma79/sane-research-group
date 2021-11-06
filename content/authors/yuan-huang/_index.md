@@ -1,6 +1,6 @@
 ---
-title: Yuan Huang
-role: Professor of Artificial Intelligence
+title: Sihe Chen
+role: Research Assistant
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
