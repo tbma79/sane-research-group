@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
+    link: mailto:tbma@comp.nus.edu.sg
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
