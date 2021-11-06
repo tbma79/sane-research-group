@@ -39,8 +39,6 @@ superuser: false
 authors:
   - 吳恩達
 user_groups:
-  - Visitors
-  - Alumni
   - Grad Students
 ---
 
