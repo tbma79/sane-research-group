@@ -34,9 +34,12 @@ social:
     icon: orcid
 education:
   courses:
-    - course: Distributed System
-      institution: NUS
-      year: 2019
+    - course: Master in Computer Science
+      institution: National University of Singapore
+      year: 2020
+    - course: BSc in Computer Science
+      institution: University of Electronic Science and Technology of China
+      year: 2014
 email: maoyancan@u.nus.edu
 user_groups:
   - Grad Students
