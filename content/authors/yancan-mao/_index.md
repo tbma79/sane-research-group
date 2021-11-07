@@ -14,7 +14,7 @@ interests:
 social:
   - display:
       header: false
-    link: yancanmao.github.io
+    link: https://github.com/yancanmao
     icon: github
     icon_pack: fab
 education:
