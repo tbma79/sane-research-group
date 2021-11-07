@@ -14,6 +14,11 @@ interests:
 social:
   - display:
       header: false
+    link: mailto:maoyancan@u.nus.edu
+    icon_pack: fas
+    icon: envelope
+  - display:
+      header: false
     link: https://github.com/yancanmao
     icon: github
     icon_pack: fab
@@ -24,9 +29,9 @@ social:
     icon: orcid
   - display:
       header: false
-    link: mailto:maoyancan@u.nus.edu
-    icon_pack: fas
-    icon: envelope
+    link: https://scholar.google.com/citations?user=7QJyq0QAAAAJ&hl=en
+    icon_pack: ai
+    icon: google-scholar
 education:
   courses:
     - course: Distributed System
