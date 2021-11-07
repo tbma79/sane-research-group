@@ -24,7 +24,7 @@ social:
     icon: orcid
   - display:
       header: false
-    link: maoyancan@u.nus.edu
+    link: mailto:maoyancan@u.nus.edu
     icon_pack: fas
     icon: envelope
 education:
