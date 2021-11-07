@@ -17,6 +17,11 @@ social:
     link: https://github.com/yancanmao
     icon: github
     icon_pack: fab
+  - display:
+      header: false
+    link: https://orcid.org/ 0000-0002-7824-5978
+    icon_pack: ai
+    icon: orcid
 education:
   courses:
     - course: Distributed System
