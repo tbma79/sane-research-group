@@ -18,7 +18,10 @@ social:
     icon: github
     icon_pack: fab
 education:
-  courses: []
+  courses:
+    - course: Distributed System
+      institution: NUS
+      year: 2019
 email: maoyancan@u.nus.edu
 user_groups:
   - Grad Students
