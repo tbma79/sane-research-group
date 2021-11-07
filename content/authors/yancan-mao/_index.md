@@ -22,6 +22,11 @@ social:
     link: https://orcid.org/ 0000-0002-7824-5978
     icon_pack: ai
     icon: orcid
+  - display:
+      header: false
+    link: maoyancan@u.nus.edu
+    icon_pack: fas
+    icon: envelope
 education:
   courses:
     - course: Distributed System
