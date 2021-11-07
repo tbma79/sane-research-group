@@ -19,6 +19,11 @@ social:
     icon: envelope
   - display:
       header: false
+    link: https://scholar.google.com/citations?user=7QJyq0QAAAAJ&hl=en
+    icon_pack: ai
+    icon: google-scholar
+  - display:
+      header: false
     link: https://github.com/yancanmao
     icon: github
     icon_pack: fab
@@ -27,11 +32,6 @@ social:
     link: https://orcid.org/ 0000-0002-7824-5978
     icon_pack: ai
     icon: orcid
-  - display:
-      header: false
-    link: https://scholar.google.com/citations?user=7QJyq0QAAAAJ&hl=en
-    icon_pack: ai
-    icon: google-scholar
 education:
   courses:
     - course: Distributed System
