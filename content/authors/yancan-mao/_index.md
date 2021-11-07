@@ -36,8 +36,8 @@ education:
   courses:
     - course: Master in Computer Science
       institution: National University of Singapore
-      year: 2020
-    - course: Bse in Software Engineering
+      year: 2019
+    - course: BEng in Software Engineering
       institution: University of Electronic Science and Technology of China
       year: 2014
 email: maoyancan@u.nus.edu
