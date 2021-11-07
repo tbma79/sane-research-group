@@ -1,5 +1,5 @@
 ---
-title: Trisk has been accepted by ACM SoCC 2020
+title: Trisk has been accepted by ACM SoCC 2021
 date: 2020-12-02
 image:
   focal_point: top
