@@ -16,7 +16,7 @@ social:
       header: false
     link: yancanmao.github.io
     icon: github
-    icon_pack: ai
+    icon_pack: fab
 education:
   courses: []
 email: maoyancan@u.nus.edu
