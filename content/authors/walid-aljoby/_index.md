@@ -22,7 +22,7 @@ social:
     icon: <i class="fab fa-linkedin"></i>
 education:
   courses:
-    - course: PhD in Computer Science (Systems & Networking)
+    - course: PhD in Computer Science
       year: 2020
       institution: National University of Singapore
     - course: M.Sc in Computer Engineering
