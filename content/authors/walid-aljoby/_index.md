@@ -8,7 +8,11 @@ role: PhD student and postdoc (2015-2021), now Research Scientist (A*STAR I2R)
 bio: His research interests are broadly in networking and systems, and more
   specifically on software-defined networking, programmable dataplanes, cloud
   networking, and network security.
-interests: []
+interests:
+  - Software-defined networking
+  - programmable dataplanes
+  - cloud networking
+  - network security.
 social:
   - display:
       header: false
