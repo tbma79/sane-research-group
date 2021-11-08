@@ -4,7 +4,7 @@ superuser: false
 authors:
   - 吳恩達
 title: Walid Aljoby
-role: Research Scientist (A*STAR I2R)
+role: PhD student and postdoc (2015-2021), now Research Scientist (A*STAR I2R)
 bio: His research interests are broadly in networking and systems, and more
   specifically on software-defined networking, programmable dataplanes, cloud
   networking, and network security.
