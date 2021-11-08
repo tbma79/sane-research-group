@@ -1,14 +1,14 @@
 ---
 title: Rengan Dou
 role: 5th Year Ph.D. Student
-avatar_filename: thumbnail_19045177cdde426bb570ab3f99714fed.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: National University of Singapore
     url: ""
 superuser: false
 authors:
   - 吳恩達
-bio: "My research interests include cloud computing, memory management and "
+bio: ""
 interests:
   - Cloud Computing
 social:
