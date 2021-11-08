@@ -1,7 +1,7 @@
 ---
 title: Yancan Mao
 role: 3rd Year Ph.D. Student
-avatar_filename: 帅照.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: National University of Singapore
 superuser: false
