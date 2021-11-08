@@ -12,7 +12,7 @@ bio: My research interests include Streaming System, Machine Learning on Graph,
   Optimization
 interests:
   - Streaming System
-  - Macine Learning on Graph
+  - Machine Learning on Graph
   - Optimization
 social:
   - icon: envelope
