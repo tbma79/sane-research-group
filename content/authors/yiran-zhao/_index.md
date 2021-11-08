@@ -1,7 +1,7 @@
 ---
 title: Yiran Zhao
 role: 1st Year Ph.D. Student
-avatar_filename: life.png
+avatar_filename: avatar.png
 organizations:
   - name: National University of Singapore
     url: ""
