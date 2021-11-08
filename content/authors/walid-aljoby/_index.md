@@ -4,7 +4,7 @@ superuser: false
 authors:
   - 吳恩達
 title: Walid Aljoby
-role: Research Scientist (A*STAR Institute for Infocomm Research (I2R))
+role: Research Scientist (A*STAR I2R)
 bio: His research interests are broadly in networking and systems, and more
   specifically on software-defined networking, programmable dataplanes, cloud
   networking, and network security.
@@ -45,6 +45,6 @@ Research: Leveraging of SDN programmable data plane to defend against Adaptive L
 
 From Aug. 2015 - Jul. 2020:
 
-He was PhD student and received the Ph.D degree in computer science from National University of Singapore (NUS) in Oct. 2020. 
+He was a PhD student and received the PhD degree in computer science from National University of Singapore (NUS) in Oct. 2020. 
 
 Research: In his Ph.D. thesis, he developed software systems based on leveraging programmable network data and control planes and demonstrated their benefits in improving the performance of two concrete networking applications: 1) a datacenter application as represented by distributed stream analytics and 2) an Internet application as represented by adaptive bitrate video streaming.
