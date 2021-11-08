@@ -1,6 +1,7 @@
 ---
 title: Zhaochen She
 role: Professor of Artificial Intelligence
+avatar_filename: img_8578.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
