@@ -1,46 +1,31 @@
 ---
 title: Yifan Hou
 role: Research Intern
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-organizations:
-  - name: Stanford University
-    url: ""
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+avatar_filename: yifan.jpg
+organizations: []
 superuser: false
 authors:
   - 吳恩達
+bio: ""
+interests:
+  - My research interests include model interpretation
+  - graph-based machine learning
+  - information theory.
+social:
+  - display:
+      header: false
+    link: https://yifan-h.github.io/
+    icon_pack: ai
+    label: Homepage
+    icon: Academic
+education:
+  courses: []
+email: ""
 user_groups:
   - Alumni
 ---
-Xin Wang is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! Curently I'm a PhD student in the Department of Computer Science at ETH Zurich, advised by Professor Mrinmaya Sachan. Before ETH Zurich, I got my MPhil degree in the Department of Computer Science and Engineering at CUHK, co-advised by Professor Ming-Chang Yang and Professor James Cheng, and my Bachelor degree in the Advanced Class at HUST.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+
+Previously, I worked with Prof. Richard T. B. Ma as a research intern on the understanding of graph neural networks. The work is published on ICLR 2020 and helps me win the Faculty Outstanding MPhil Thesis Award of CUHK.
