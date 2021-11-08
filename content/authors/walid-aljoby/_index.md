@@ -10,7 +10,7 @@ bio: His research interests are broadly in networking and systems, and more
   networking, and network security.
 interests:
   - Distributed Systems
-  - Software-Defined Networking
+  - Programmable Networks
   - Cloud Networking
   - Network Security
 social:
