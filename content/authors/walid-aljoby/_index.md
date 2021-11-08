@@ -25,6 +25,11 @@ social:
     link: mailto:walid.aljoby@gmail.com
     icon_pack: fas
     icon: envelope
+  - display:
+      header: false
+    icon_pack: ai
+    icon: google-scholar
+    link: https://scholar.google.com/citations?user=_wD9uJEAAAAJ&hl=en
 education:
   courses:
     - course: PhD in Computer Science
