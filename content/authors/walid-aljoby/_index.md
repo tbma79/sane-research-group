@@ -24,12 +24,12 @@ education:
   courses:
     - course: PhD in Computer Science (Systems & Networking)
       year: 2020
-      institution: National University of Singapore
+      institution: National University of Singapore, Singapore
     - course: M.Sc in Computer Engineering
-      institution: Jordan University of Science and Technology
+      institution: Jordan University of Science and Technology, Jordan
       year: 2013
     - course: "B.Sc in Computer Information Systems "
-      institution: Hashemite University
+      institution: Hashemite University, Jordan
       year: 2009
 email: ""
 user_groups:
