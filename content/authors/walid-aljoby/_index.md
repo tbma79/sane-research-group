@@ -49,4 +49,4 @@ email: ""
 user_groups:
   - Alumni
 ---
-Walid Aljoby received his Ph.D. degree in computer science from National University of Singapore (NUS) in 2020. After his Ph.D., he was a Research Fellow with the NUS-Singtel Corporate Lab, and an adjunct postdoctoral researcher with Advanced Digital Sciences Center (ADSC), University of Illinois. His research interests are broadly in networking and systems, and more specifically on software-defined networking, programmable dataplanes, cloud networking, and network security.
+Walid Aljoby received his Ph.D. degree in computer science from National University of Singapore (NUS) in 2020. After his Ph.D., he was a Research Fellow with the NUS-Singtel Corporate Lab, and an adjunct postdoctoral researcher with Advanced Digital Sciences Center (ADSC), University of Illinois. His research interests are broadly in networking and systems.
