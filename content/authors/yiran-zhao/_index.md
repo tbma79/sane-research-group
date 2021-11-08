@@ -21,6 +21,11 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=D_HwSlEAAAAJ
+  - display:
+      header: false
+    link: https://github.com/zhaoyiran924
+    icon_pack: fab
+    icon: github
 education:
   courses:
     - course: BSc in Computer Science
