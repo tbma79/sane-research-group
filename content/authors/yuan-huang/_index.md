@@ -1,47 +1,35 @@
 ---
 title: Sihe Chen
 role: Research Assistant
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+avatar_filename: id_photo.jpg
 organizations:
-  - name: Stanford University
+  - name: California Institute of Technology
     url: ""
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
 superuser: false
 authors:
   - 吳恩達
+bio: I worked on applying machine learning algorithms in stream processing
+  systems as a research assistant. My current research interests include
+  radiative transfer, ocean and atmospheric dynamics, and application of
+  artificial intelligence to geophysical problems.
+interests: []
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:sihechen@caltech.edu
+    display:
+      header: false
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/sihe-chen-7a5953107/
+    icon_pack: fas
+    icon: linkedin
+education:
+  courses:
+    - course: BEng in Mechanical Engineering
+      institution: National University of Singapore
+      year: 2020
+email: ""
 user_groups:
   - Alumni
 ---
-
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
