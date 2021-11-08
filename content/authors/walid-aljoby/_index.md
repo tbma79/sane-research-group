@@ -9,10 +9,10 @@ bio: His research interests are broadly in networking and systems, and more
   specifically on software-defined networking, programmable dataplanes, cloud
   networking, and network security.
 interests:
-  - Software-defined networking
-  - programmable dataplanes
-  - cloud networking
-  - network security.
+  - Software-Defined Networking
+  - Programmable Dataplanes
+  - Cloud Networking
+  - Network Security
 social:
   - display:
       header: false
