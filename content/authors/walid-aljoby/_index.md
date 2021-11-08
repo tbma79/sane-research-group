@@ -35,16 +35,4 @@ email: ""
 user_groups:
   - Alumni
 ---
-From Dec. 2020 to Oct. 2021:
-
-He was a postdoctoral research fellow with the NUS-Singtel Cyber Security R&D Lab and School of Computing, National University of Singapore (NUS), and an adjunct research fellow with Advanced Digital Sciences Center (ADSC), the research center of the University of Illinois at Urbana-Champaign (UIUC) in Singapore. 
-
-Research: Leveraging of SDN programmable data plane to defend against Adaptive Link Flooding Attacks (LFA) using traffic engineering techniques.
-
-\---
-
-From Aug. 2015 - Jul. 2020:
-
-He was a PhD student and received the PhD degree in computer science from National University of Singapore (NUS) in Oct. 2020. 
-
-Research: In his Ph.D. thesis, he developed software systems based on leveraging programmable network data and control planes and demonstrated their benefits in improving the performance of two concrete networking applications: 1) a datacenter application as represented by distributed stream analytics and 2) an Internet application as represented by adaptive bitrate video streaming.
+Walid Aljoby received his Ph.D. degree in computer science from National University of Singapore (NUS) in 2020. After his Ph.D., he was a Research Fellow with the NUS-Singtel Corporate Lab, and an adjunct postdoctoral researcher with Advanced Digital Sciences Center (ADSC), University of Illinois. His research interests are broadly in networking and systems, and more specifically on software-defined networking, programmable dataplanes, cloud networking, and network security.
