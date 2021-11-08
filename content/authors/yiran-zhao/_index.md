@@ -25,7 +25,7 @@ education:
   courses:
     - course: BSc in Computer Science
       institution: Shanghai Jiao Tong University, China
-      year: 2018
+      year: 2021
 email: ""
 user_groups:
   - Grad Students
