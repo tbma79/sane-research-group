@@ -4,7 +4,7 @@ superuser: false
 authors:
   - 吳恩達
 title: Walid Aljoby
-role: PhD student and postdoc (2015-2021)
+role: Ph.D. student and postdoc (2015-2021)
 bio: His research interests are broadly in networking and systems, and more
   specifically on software-defined networking, programmable dataplanes, cloud
   networking, and network security.
