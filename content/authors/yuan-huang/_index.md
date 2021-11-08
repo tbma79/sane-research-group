@@ -1,7 +1,7 @@
 ---
 title: Sihe Chen
 role: Research Assistant
-avatar_filename: id_photo.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: California Institute of Technology
     url: ""
@@ -23,7 +23,7 @@ social:
       header: false
     link: https://www.linkedin.com/in/sihe-chen-7a5953107/
     icon_pack: fas
-    icon: linkedin
+    icon: envelope
 education:
   courses:
     - course: BEng in Mechanical Engineering
