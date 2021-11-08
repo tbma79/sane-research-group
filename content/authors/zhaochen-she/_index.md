@@ -1,6 +1,6 @@
 ---
 title: Zhaochen She
-role: PhD Student of Distributed System
+role: 5th Year Ph.D. Student
 avatar_filename: avatar.jpg
 bio: My research interests include distributed stream processing, serverless
   computing.
