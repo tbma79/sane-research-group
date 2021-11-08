@@ -11,6 +11,7 @@ authors:
 bio: ""
 interests:
   - Cloud Computing
+  - Resource Management
 social:
   - icon: envelope
     icon_pack: ai
