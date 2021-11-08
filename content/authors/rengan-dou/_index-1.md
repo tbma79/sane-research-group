@@ -20,7 +20,7 @@ social:
     link: https://github.com/RG-Dou
 education:
   courses:
-    - course: BEng in Computing Science
+    - course: BSc in Computing Science
       institution: University of Science and Technology of China
       year: 2016
 email: ""
