@@ -13,13 +13,18 @@ social:
   - display:
       header: false
     link: https://aljoby.github.io/
-    icon_pack: far
-    icon: <i class="fas fa-link"></i>
+    icon_pack: fas
+    icon: link
   - display:
       header: false
     link: https://www.linkedin.com/in/walid-aljoby/
-    icon_pack: far
-    icon: <i class="fab fa-linkedin"></i>
+    icon_pack: fas
+    icon: linkedin
+  - display:
+      header: false
+    link: mailto:walid.aljoby@gmail.com
+    icon_pack: fas
+    icon: envelope
 education:
   courses:
     - course: PhD in Computer Science
