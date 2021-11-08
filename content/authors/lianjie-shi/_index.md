@@ -1,7 +1,7 @@
 ---
 title: Lianjie Shi
 role: Ph.D. Student
-avatar_filename: avatar
+avatar_filename: ""
 social: []
 superuser: false
 ---
