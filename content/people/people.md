@@ -19,7 +19,7 @@ content:
   - Faculty
 #  - Principal Investigators
   - Researchers
-  - Grad Students
+  - Graduate Students
   - Undergraduate Students
 #  - Administration
   - Alumni
