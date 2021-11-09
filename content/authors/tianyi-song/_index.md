@@ -1,35 +1,32 @@
 ---
+organizations:
+  - name: National University of Singapore
+superuser: false
+authors:
+  - 吳恩達
 title: Tianyi Song
 role: FYP Student
-avatar_filename: avatar.jpg
+avatar_filename: 42670338.jpg
 bio: ""
 interests:
   - Streaming
 social:
   - display:
       header: false
-    link: mailto:maoyancan@u.nus.edu
+    link: mailto:tsong@u.nus.edu
     icon_pack: fas
     icon: envelope
   - display:
       header: false
-    link: https://github.com/yancanmao
+    link: https://github.com/tysg
     icon: github
     icon_pack: fab
-organizations:
-  - name: National University of Singapore
 education:
   courses:
-    - course: Master in Computer Science
+    - course: BComp in Computer Science
       institution: National University of Singapore
-      year: 2019
-    - course: BEng in Software Engineering
-      institution: University of Electronic Science and Technology of China
-      year: 2014
+      year: 2018
 email: ""
-superuser: false
-authors:
-  - 吳恩達
 user_groups:
   - Undergraduate Students
 ---
