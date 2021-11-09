@@ -4,6 +4,7 @@ publication_types:
   - "1"
 authors:
   - Yancan Mao
+  - Yuan Huang
   - Runxin Tian
   - Xin Wang
   - admin
