@@ -29,4 +29,4 @@ superuser: false
 user_groups:
   - Graduate Students
 ---
-Dou Rengan is a 5th year Ph.D. student at the Department of Computer Science, School of Computing, National University of Singapore. He is currently working with Richard on resource management on clouds.
+Rengan Dou is a 5th year Ph.D. student at the Department of Computer Science, School of Computing, National University of Singapore. He is currently working with Richard on resource management on clouds.
