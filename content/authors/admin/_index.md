@@ -45,5 +45,3 @@ email: ""
 Richard T. B. Ma is an associate professor with the Department of Computer Science, School of Computing, National University of Singapore. His research interests include cloud computing, distributed data and AI systems, and Internet economics and evolution. He leads the Systems, Analytics, Networks, Economics (SANE) group, which develops cloud-based data systems and performance models/analyses of network systems. 
 
 Richard received his Ph.D. from Columbia University in 2010. During his Ph.D. study, he interned at IBM Thomas J. Watson Research Center, NY, USA, and Telefonica Research, Barcelona. He received the Best Paper Award Runners-up from the ACM Mobihoc 2020 and a co-recipient of the Best Paper Award in the IEEE IC2E 2013, the IEEE ICNP 2014, and the IEEE Workshop on SDP 2015. He is a Senior Member of the ACM and IEEE.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
