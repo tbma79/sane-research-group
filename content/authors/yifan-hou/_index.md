@@ -16,7 +16,7 @@ social:
       header: false
     link: https://yifan-h.github.io/
     icon_pack: far
-    icon: Regular
+    icon: link
 education:
   courses:
     - institution: ETH Zurich
