@@ -15,13 +15,16 @@ social:
   - display:
       header: false
     link: https://yifan-h.github.io/
-    icon_pack: ai
-    label: Homepage
-    icon: Academic
+    icon_pack: far
+    icon: Regular
 education:
   courses:
     - institution: ETH Zurich
-      course: PhD
+      course: PhD in Computer Science
+    - course: MPhil in Computer Science and Engineering
+      institution: The Chinese University of Hong Kong
+    - course: BEng in Advanced Class in Mathematics and Physics
+      institution: Huazhong University of Science and Technology
 email: ""
 user_groups:
   - Alumni
