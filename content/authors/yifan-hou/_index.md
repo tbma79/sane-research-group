@@ -1,7 +1,7 @@
 ---
 title: Yifan Hou
 role: Research Intern
-avatar_filename: yifan.jpg
+avatar_filename: avatar.jpg
 organizations: []
 superuser: false
 authors:
@@ -19,7 +19,9 @@ social:
     label: Homepage
     icon: Academic
 education:
-  courses: []
+  courses:
+    - institution: ETH Zurich
+      course: PhD
 email: ""
 user_groups:
   - Alumni
