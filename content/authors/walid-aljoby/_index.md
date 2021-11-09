@@ -42,7 +42,7 @@ education:
     - course: M.Sc in Computer Engineering
       institution: Jordan University of Science and Technology
       year: 2013
-    - course: "B.Sc in Computer Information Systems "
+    - course: B.Sc in Computer Information Systems
       institution: Hashemite University
       year: 2009
 email: ""
