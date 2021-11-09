@@ -2,11 +2,6 @@
 title: Yancan Mao
 role: 3rd Year Ph.D. Student
 avatar_filename: avatar.jpg
-organizations:
-  - name: National University of Singapore
-superuser: false
-authors:
-  - 吳恩達
 bio: My research interests include state management and dynamic reconfiguration
   of distributed stream processing.
 interests:
@@ -32,6 +27,8 @@ social:
     link: https://orcid.org/ 0000-0002-7824-5978
     icon_pack: ai
     icon: orcid
+organizations:
+  - name: National University of Singapore
 education:
   courses:
     - course: Master in Computer Science
@@ -41,7 +38,10 @@ education:
       institution: University of Electronic Science and Technology of China
       year: 2014
 email: maoyancan@u.nus.edu
+superuser: false
+authors:
+  - 吳恩達
 user_groups:
-  - Grad Students
+  - Graduate Students
 ---
 Yancan Mao is a 3rd year Ph.D. student at National University of Singapore. He is currently working with Prof. Richard on interesting and practical research topics of distributed stream processing systems.
