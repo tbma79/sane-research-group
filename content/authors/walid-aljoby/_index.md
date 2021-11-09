@@ -4,7 +4,7 @@ superuser: false
 authors:
   - 吳恩達
 title: Walid Aljoby
-role: Ph.D. student and postdoc (2015-2021)
+role: Ph.D. and Research Fellow (2015-2021)
 bio: His research interests are broadly in networking and systems, and more
   specifically on software-defined networking, programmable dataplanes, cloud
   networking, and network security.
@@ -36,7 +36,7 @@ social:
     link: https://scholar.google.com/citations?user=_wD9uJEAAAAJ&hl=en
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: Ph.D. in Computer Science
       year: 2020
       institution: National University of Singapore
     - course: M.Sc in Computer Engineering
