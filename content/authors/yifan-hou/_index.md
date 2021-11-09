@@ -8,7 +8,7 @@ authors:
   - 吳恩達
 bio: ""
 interests:
-  - My research interests include model interpretation
+  - model interpretation
   - graph-based machine learning
   - information theory.
 social:
