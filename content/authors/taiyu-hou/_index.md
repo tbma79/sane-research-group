@@ -31,5 +31,5 @@ superuser: false
 authors:
   - 吳恩達
 user_groups:
-  - Graduate Students
+  - Undergraduate Students
 ---
