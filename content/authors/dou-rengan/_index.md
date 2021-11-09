@@ -27,6 +27,6 @@ education:
 email: dourengan@u.nus.edu
 superuser: false
 user_groups:
-  - Grad Students
+  - Graduate Students
 ---
 Dou Rengan is a 5th year Ph.D. student at the Department of Computer Science, School of Computing, National University of Singapore. He is currently working with Richard on resource management on clouds.
