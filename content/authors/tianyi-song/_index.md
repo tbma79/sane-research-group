@@ -6,7 +6,7 @@ authors:
   - 吳恩達
 title: Tianyi Song
 role: FYP Student
-avatar_filename: 42670338.jpg
+avatar_filename: ""
 bio: ""
 interests:
   - Streaming
