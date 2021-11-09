@@ -1,6 +1,6 @@
 ---
 title: Runxin Tian
-role: Master of Computing
+role: MComp Student
 avatar_filename: img_0072.jpg
 bio: My research interests include distributed stream processing and performance
   modeling.
