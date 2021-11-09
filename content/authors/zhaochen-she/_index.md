@@ -18,6 +18,6 @@ superuser: false
 authors:
   - 吳恩達
 user_groups:
-  - Grad Students
+  - Graduate Students
 ---
 She Zhaochen is a PhD student at the SANE Lab. His research interests include distributed stream processing, serverless computing.
