@@ -25,4 +25,4 @@ authors:
 user_groups:
   - Alumni
 ---
-Runxin worked with Richard during NGNE and MComp programes of NUS. He currently works for Alibaba, Shenzhen. His research interests include distributed stream processing and performance modeling.
+Runxin worked with Richard during NGNE and MComp programs of NUS. He currently works for Alibaba, Shenzhen. His research interests include distributed stream processing and performance modeling.
