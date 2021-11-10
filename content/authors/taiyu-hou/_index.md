@@ -1,7 +1,7 @@
 ---
 title: Taiyu Hou
 role: NGNE Student
-avatar_filename: https://raw.githubusercontent.com/ShobenHou/SomePictures/main/%E8%87%AA%E6%8B%8D.jpg
+avatar_filename: 自拍.jpg
 organizations:
   - name: National University of Singapore
 superuser: false
@@ -31,3 +31,4 @@ email: ""
 user_groups:
   - Undergraduate Students
 ---
+Taiyu Hou is an NGNE student at National University of Singapore. He is currently working with Prof. Richard on CP3106 project.
