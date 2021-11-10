@@ -2,8 +2,7 @@
 title: Yuan Huang
 role: Research Assistant
 avatar_filename: 4cee7a97-43f3-4e09-bf25-0635d9232235.jpeg
-bio: I worked on applying machine learning algorithms in stream processing
-  systems as a research assistant.
+bio: I worked on stream processing systems and other distributed systems.
 interests:
   - Distributed System
   - Machine Learning
@@ -14,7 +13,7 @@ social:
     icon_pack: fas
     icon: "LinkedIn "
 organizations:
-  - name: California Institute of Technology
+  - name: "Bytedance, Singapore "
     url: ""
 education:
   courses:
@@ -28,4 +27,4 @@ authors:
 user_groups:
   - Alumni
 ---
-Yuan works on Stream System and Artificial Intelligence. He was involved to the Trisk work as a second author and published this paper in SOCC.
+Yuan worked with Richard during NGNE program of NUS and then be a Research Assistant focusing on stream processing system. He was involved to the Trisk work as a second author and published this paper in SOCC.
