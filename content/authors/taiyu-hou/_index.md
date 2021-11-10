@@ -7,7 +7,8 @@ organizations:
 superuser: false
 authors:
   - 吳恩達
-bio: ""
+bio: Taiyu Hou is a NGNE student at National University of Singapore. He is
+  currently working with Prof. Richard on CP3106 project.
 interests:
   - CloudComputing
 social:
