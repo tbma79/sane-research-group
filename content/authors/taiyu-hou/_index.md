@@ -9,7 +9,7 @@ authors:
   - 吳恩達
 bio: ""
 interests:
-  - Cloud
+  - CloudComputing
 social:
   - display:
       header: false
