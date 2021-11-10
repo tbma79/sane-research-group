@@ -1,7 +1,7 @@
 ---
 title: Yuan Huang
 role: Research Assistant
-avatar_filename: 4cee7a97-43f3-4e09-bf25-0635d9232235.jpeg
+avatar_filename: avatar.jpg
 bio: I worked on stream processing systems and other distributed systems.
 interests:
   - Distributed System
@@ -10,7 +10,7 @@ social:
   - display:
       header: false
     link: https://www.linkedin.com/mwlite/in/yu-an-huang-a60476220
-    icon_pack: fas
+    icon_pack: fab
     icon: "linkedin "
 organizations:
   - name: "Bytedance, Singapore "
