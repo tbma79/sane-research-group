@@ -11,7 +11,7 @@ social:
       header: false
     link: https://www.linkedin.com/mwlite/in/yu-an-huang-a60476220
     icon_pack: fas
-    icon: "LinkedIn "
+    icon: "linkedin "
 organizations:
   - name: "Bytedance, Singapore "
     url: ""
@@ -27,4 +27,4 @@ authors:
 user_groups:
   - Alumni
 ---
-Yuan worked with Richard during NGNE program of NUS and then be a Research Assistant focusing on stream processing system. He was involved to the Trisk work as a second author and published this paper in SOCC.
+Yuan worked with Richard during NGNE program of NUS and then be a Research Assistant focusing on stream processing system. He was involved to the Trisk work as a second author.
