@@ -1,7 +1,7 @@
 ---
 title: Taiyu Hou
 role: NGNE Student
-avatar_filename: 自拍.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: National University of Singapore
 superuser: false
