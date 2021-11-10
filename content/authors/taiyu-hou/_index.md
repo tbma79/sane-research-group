@@ -1,35 +1,32 @@
 ---
 title: Taiyu Hou
 role: NGNE Student
-avatar_filename: avatar.jpg
+avatar_filename: 自拍.jpg
+organizations:
+  - name: National University of Singapore
+superuser: false
+authors:
+  - 吳恩達
 bio: ""
 interests:
-  - Streaming
+  - Cloud
 social:
   - display:
       header: false
-    link: mailto:maoyancan@u.nus.edu
+    link: 17784320287@163.com
     icon_pack: fas
     icon: envelope
   - display:
       header: false
-    link: https://github.com/yancanmao
+    link: https://github.com/ShobenHou
     icon: github
     icon_pack: fab
-organizations:
-  - name: National University of Singapore
 education:
   courses:
-    - course: Master in Computer Science
-      institution: National University of Singapore
-      year: 2019
     - course: BEng in Software Engineering
       institution: University of Electronic Science and Technology of China
-      year: 2014
+      year: 2022
 email: ""
-superuser: false
-authors:
-  - 吳恩達
 user_groups:
   - Undergraduate Students
 ---
