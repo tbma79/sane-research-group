@@ -14,4 +14,4 @@ design:
 ---
 <br>
 
-The **Systems Analytics Network Economics (SANE) Research Group** focuses on developing cloud-based data systems and performance models/analyses of network systems.
+The **Systems, Analytics, Networks, Economics (SANE) Research Group** focuses on developing cloud-based data systems and performance models/analyses of network systems.
