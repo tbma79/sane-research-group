@@ -8,7 +8,7 @@ authors:
   - Xin Wang
   - admin
 doi: https://doi.org/10.1145/3428326
-url_video: 'video.mp4'
+url_video: 'https://www.comp.nus.edu.sg/~tbma/contractual-equilibrium.mp4'
 
 
 publication: In *ACM on Measurement and Analysis of Computing Systems (SIGMETRICS) 2021*
