@@ -4,7 +4,7 @@ subtitle: ""
 publication_types:
   - "2"
 authors:
-  - Walid A. Y. Aljoby
+  - Walid Aljoby
   - Xin Wang
   - Tom Z. J. Fu
   - admin
