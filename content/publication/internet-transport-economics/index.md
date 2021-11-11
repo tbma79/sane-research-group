@@ -1,6 +1,6 @@
 ---
-title: Internet Transport Economics
-subtitle: "Internet Transport Economics: Model and Analysis"
+title: "Internet Transport Economics: Model and Analysis"
+subtitle: ""
 publication_types:
   - "1"
 authors:
