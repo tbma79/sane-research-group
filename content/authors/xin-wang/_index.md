@@ -12,7 +12,7 @@ social:
     icon_pack: fas
     link: mailto:xin.wang.2027@gmail.com
 organizations:
-  - name: Stanford University
+  - name: National University of Singapore
     url: ""
 education:
   courses:
