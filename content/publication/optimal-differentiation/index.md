@@ -7,7 +7,7 @@ authors:
   - Mao Zou
   - admin
   - Xin Wang
-  - Yinlong Xu.
+  - Yinlong Xu
 doi: 10.1109/TNET.2018.2874474
 publication: In * IEEE/ACM Transactions on Networking, Volume 26, Issue 6, pp.
   2693 - 2706, December 2018.*
