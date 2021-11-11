@@ -1,7 +1,7 @@
 ---
-title: Contractual Equilibrium
-subtitle: "On Private Peering Agreements between Content and Access Providers: A
+title: "On Private Peering Agreements between Content and Access Providers: A
   Contractual Equilibrium Analysis"
+subtitle: ""
 publication_types:
   - "1"
 authors:
