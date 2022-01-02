@@ -1,6 +1,6 @@
 ---
-title: DiFi
-subtitle: "DiFi: A Go-as-You-Pay Wi-Fi Access System"
+title: "DiFi: A Go-as-You-Pay Wi-Fi Access System"
+subtitle: ""
 publication_types:
   - "1"
 authors:
