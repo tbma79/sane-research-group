@@ -1,6 +1,6 @@
 ---
 title: Rengan Dou
-role: 5rd Year Ph.D. Student
+role: 5th Year Ph.D. Student
 avatar_filename: avatar.jpg
 bio: ""
 interests:
