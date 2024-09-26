@@ -1,6 +1,6 @@
 ---
 title: Rengan Dou
-role: 5th Year Ph.D. Student
+role: Graduated Ph.D. Student
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -29,4 +29,4 @@ superuser: false
 user_groups:
   - Graduate Students
 ---
-Rengan Dou is a 5th year Ph.D. student at the Department of Computer Science, School of Computing, National University of Singapore. He is currently working with Richard on resource management on clouds.
+Rengan Dou was Ph.D. student at the Department of Computer Science, School of Computing, National University of Singapore. He worked with Richard on resource management on clouds.
